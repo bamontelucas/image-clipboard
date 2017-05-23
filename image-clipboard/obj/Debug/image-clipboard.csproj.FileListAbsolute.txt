@@ -1,0 +1,6 @@
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Debug\image-clipboard.exe.config
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Debug\image-clipboard.exe
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Debug\image-clipboard.pdb
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Debug\image-clipboard.csprojResolveAssemblyReference.cache
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Debug\image-clipboard.exe
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Debug\image-clipboard.pdb

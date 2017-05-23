@@ -1,0 +1,10 @@
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Release\image-clipboard.exe.config
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Release\image-clipboard.exe
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Release\image-clipboard.pdb
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Release\image-clipboard.exe
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Release\image-clipboard.pdb
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Release\image-clipboard.exe.manifest
+C:\Lucas\Coding\image-clipboard\image-clipboard\bin\Release\image-clipboard.application
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Release\image-clipboard.csprojResolveAssemblyReference.cache
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Release\image-clipboard.exe.manifest
+C:\Lucas\Coding\image-clipboard\image-clipboard\obj\Release\image-clipboard.application
